@@ -1,0 +1,54 @@
+# Task App
+
+## Overview
+
+This is a simple web-based task management application that allows users to add tasks to a list. The application uses HTML, CSS, and JavaScript to create a basic interface for task entry and display.
+
+## Features
+
+- Add tasks through an input field.
+- Dynamically display tasks in a table format.
+- Simple and intuitive interface.
+
+## Technologies Used
+
+- **HTML**: Structure of the webpage.
+- **CSS**: (Not included, but can be added for styling).
+- **JavaScript**: Functionality to handle task addition.
+
+## Getting Started
+
+### Prerequisites
+
+- A web browser to view the application.
+- Basic knowledge of HTML and JavaScript is helpful.
+
+### Installation
+
+1. Clone the repository or download the HTML file.
+2. Open the `index.html` file in your preferred web browser.
+
+### Usage
+
+1. Enter a task in the input field.
+2. Click the "Add Task" button to add it to the task list.
+3. The task will appear in the table below the input field.
+
+## Code Explanation
+
+- The HTML structure includes a table to display tasks and a form to input new tasks.
+- JavaScript is used to prevent the default form submission behavior and dynamically add a new row to the table with the entered task.
+
+## Future Enhancements
+
+- Implement task removal functionality.
+- Add persistent storage using local storage.
+- Style the application using CSS for a better user experience.
+
+## Contributing
+
+Feel free to fork the repository, make changes, and submit a pull request. Any contributions are welcome!
+
+## License
+
+This project is open-source and available under the MIT License.
